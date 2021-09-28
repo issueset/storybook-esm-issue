@@ -2,6 +2,8 @@
   "name": "storybook-esm-issue",
   "version": "1.0.0",
   "main": "index.js",
+  "module": "index.js",
+  "type": "module",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
